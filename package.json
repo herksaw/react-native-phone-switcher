@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-switcher",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "description": "Phone screen size switcher.",
   "main": "index.js",
   "scripts": {},
