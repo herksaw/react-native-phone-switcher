@@ -1,0 +1,36 @@
+{
+  "name": "react-native-phone-switcher",
+  "version": "0.0.1",
+  "description": "Phone screen size switcher.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herksaw/react-native-phone-switcher"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Screen",
+    "Layout",
+    "Test",
+    "Debug",
+    "Phone"
+  ],
+  "author": "Herks Aw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvium/react-native-phone-switcher/issues"
+  },
+  "dependencies": {
+    "prop-types": "*",
+    "react-native-actions-sheet": "0.5.4"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.43.0",
+    "react": "*"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
